@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f0bc35d7-08d0-40d4-9d11-ad239823672b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functional_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/functional_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superlists/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/lists/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superlists/lists/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/lists/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superlists/superlists/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/superlists/superlists/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +53,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="75" key="SettingsEditor" timestamp="1577889384189">
+    <state x="223" y="75" key="SettingsEditor" timestamp="1577893083005">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="223" y="75" key="SettingsEditor/0.0.1440.860/-1280.-57.1280.984@0.0.1440.860" timestamp="1577889384189" />
+    <state x="223" y="75" key="SettingsEditor/0.0.1440.860/-1280.-57.1280.984@0.0.1440.860" timestamp="1577893083005" />
   </component>
 </project>
