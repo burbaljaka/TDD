@@ -5,7 +5,7 @@ import unittest
 class NewVisitorTest(unittest.TestCase):
 
     def setUp(self):
-        self.browser = webdriver.Chrome('c:/chromedriver.exe')
+        self.browser = webdriver.Chrome('c:/Users/burba/Documents/Python Scripts/TDD/chromedriver.exe')
         self.browser.implicitly_wait(3)
 
     def tearDown(self):
